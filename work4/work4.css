@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	width: 600px;
+	height: 320px;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+	background: #A9A9A9;
+	overflow: hidden;
+
+}
+.one{
+	position:absolute;
+	top:-100px;
+	left:-100px;
+	width:200px;
+	height:200px;
+	background-color: #fc0;		
+	border-radius:100px;	
+}
+.two{
+	position: absolute;
+	bottom: -100px;
+	right: -100px;
+	width: 200px;
+	height: 200px;
+	background-color: #fc0;		
+	border-radius:100px;
+}

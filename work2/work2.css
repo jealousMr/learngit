@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+.bd{
+	background:#A2A099;
+	padding: 0px;
+	margin: 10px;
+}
+.head{
+	margin: 10px;
+	padding: 5px;
+	background: #936A6B;
+	height: 10%;
+}
+.lione{
+	float: right;
+	margin: 10px;
+	padding: 5px;
+}
+a:link{
+	color: #EBEBEB;
+}
+.linkone{
+	position: absolute;
+	top: 1%;
+	right: 8%;
+}
+.one{
+	margin: 10px;
+	padding: 10px;
+	background: #FFFFFF;
+	border-style: inset;
+}
+.tuone{
+	padding: 15px;
+	margin: 5px;
+}
+.two{
+	margin: 10px;
+	padding: 10px;
+	background: #F9F9F9;
+	border-style: inset;
+}
+.three{
+	margin: 10px;
+	padding: 10px;
+	background: #F9F9F9;
+	background: #FFFFFF;
+	border-style: inset;
+}
+.tutwo{
+	width: 70%;
+	height: 70%px;
+	position: relative;
+	left: 13%;
+	top:15%;
+	
+}
+.maintu{
+	margin: 20px;
+	padding: 20px;
+	border-style:solid;
+	border-color: #DCDC95;
+	background: #F7F7F7;
+	width: 300px;
+	height: 300px;	
+}
+.tuzi{
+	position: absolute;
+	left: 50%;
+}
+.four{
+	margin: 10px;
+	padding: 10px;
+	background: #FFFFFF;
+	border-style: inset;
+}
+.tab{
+	width: 100%;
+}
+.trt{
+	background: #D2E093;
+}
+.trw{
+	background: #B57374;
+}
+.fif{
+	margin: 10px;
+	padding: 10px;
+	background: #F9F9F9;
+	border-style: inset;
+}
+.ce{
+	margin: 15px;
+	position: relative;
+	left: 30%;
+}
+.cee{
+	color: #F4F0F0;
+	text-align: center;
+	background: #4B98C9;
+	width: 100%;
+	height: 30px;
+	
+}
